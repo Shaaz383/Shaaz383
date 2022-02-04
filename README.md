@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Syed Shaaz Akhtar</h1>
-<h3 align="center">Full Stack Developer</h3>
+ <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif">
+ <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href="https://Shaaz383.github.io/" target="_blank">Syed Shaaz Akhtar</a>. Nice to see you.🤗 </h1> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaaz383&label=Profile%20views&color=0e75b6&style=flat" alt="shaaz383" /> </p>
 
@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaaz383&show_icons=true&locale=en" alt="shaaz383" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaaz383&" alt="shaaz383" /></p>
+
+
+ <img align="center" src="https://user-images.githubusercontent.com/67560900/135058203-f80c9621-b921-4662-97e5-17b4ff1a0369.gif" width="400">
